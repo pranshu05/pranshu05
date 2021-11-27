@@ -14,7 +14,7 @@
 <a href="https://codepen.io/pranshu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pranshu05" height="30" width="40" /></a>
 <a href="https://dev.to/pranshu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pranshu05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranshu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranshu05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pranshu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranshu05" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvxmP7_IDK5vPrCuNOLj_ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pranshu05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
