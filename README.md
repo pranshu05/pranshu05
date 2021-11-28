@@ -40,5 +40,4 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=radical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 |  <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&theme=radical&no-bg=true" /> |
-| --- | --- |
  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) 
