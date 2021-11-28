@@ -1,12 +1,10 @@
 <p align="center">
 <img align="center" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/download.gif" width="200" height="200"/>
 </p>
-<img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/>
 <h1 align="center">Hi 👋, I'm Pranshu Patel</h1>
 <h3 align="center">A passionate Programmer,GameDeveloper and Animator(Part Time) from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu05" /> </p>
-
+<img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/>
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/754381104034742415?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/754381104034742415)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415)
