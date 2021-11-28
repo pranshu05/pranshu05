@@ -1,3 +1,4 @@
+<img align="center" alt="GIF" src=https://github.com/pranshu05/pranshu05/blob/main/download.gif" width="200" height="200"/>
 <h1 align="center">Hi 👋, I'm Pranshu Patel</h1>
 <h3 align="center">A passionate Programmer,GameDeveloper and Animator(Part Time) from India</h3>
 
