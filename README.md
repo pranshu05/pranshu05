@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranshu Patel</h1>
-<img align="center" alt="GIF" src=https://github.com/pranshu05/pranshu05/blob/main/download.gif" width="200" height="200"/>
+<img align="center" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/download.gif" width="200" height="200"/>
 <h3 align="center">A passionate Programmer,GameDeveloper and Animator(Part Time) from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu05" /> </p>
