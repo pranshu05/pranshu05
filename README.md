@@ -34,6 +34,6 @@
 # Stats
 
 
-<p align="right">![Github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&theme=blueberry&count_private=true&hide_border=true&line_height=25)</p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&theme=blueberry&count_private=true&hide_border=true&line_height=25&align=right)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&layout=compact&theme=blueberry&count_private=true&hide_border=true&line_height=25)
 ![GitHub metrics](https://metrics.lecoq.io/pranshu05)![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05)
