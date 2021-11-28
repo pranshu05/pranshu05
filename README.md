@@ -8,7 +8,7 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/754381104034742415)](https://dev.discordprofiles.me/openspotify/754381104034742415)
 
-<img align="right" alt="GIF" src="https://tenor.com/brgzZ.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
 
 
 # What I'm doing
