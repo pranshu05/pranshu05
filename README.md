@@ -36,10 +36,7 @@
 
 # Stats
 
-
-[![Pranshu Patel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranshu05&theme=darkone)](https://git.io/praveenscience)
-
-| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&theme=darkone) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05&theme=darkone) |
+| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&theme=aura) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05&theme=aura) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=darkone) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=darkone) |
-|  <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&theme=darkone&no-bg=true" /> | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=darkone) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=aura) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=aura) |
+|  <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&theme=aura&no-bg=true" /> | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=aura) |
