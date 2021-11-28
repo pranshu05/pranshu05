@@ -37,10 +37,10 @@
 # Stats
 
 
-[![Pranshu Patel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranshu05&theme=tokyonight)](https://git.io/praveenscience)
+[![Pranshu Patel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranshu05&theme=radical)](https://git.io/praveenscience)
 
-| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&theme=tokyonight) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05&theme=tokyonight) |
+| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&theme=radical) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05&theme=radical) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-|  <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&theme=tokyonight&no-bg=true" /> |
-| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radical&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+|  <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&theme=radical&no-bg=true" /> |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) |
