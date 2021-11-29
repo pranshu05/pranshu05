@@ -7,10 +7,10 @@
 <p><a href="https://pranshu05.github.io"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p></a>
 
 [![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/754381104034742415?simple=true?style=for-the-badge)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/754381104034742415?style=for-the-badge)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415?style=for-the-badge)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/754381104034742415?style=for-the-badge)](https://dev.discordprofiles.me/openspotify/754381104034742415)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/754381104034742415?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/754381104034742415)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/754381104034742415](https://dev.discordprofiles.me/openspotify/754381104034742415)
 
 <img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
 
