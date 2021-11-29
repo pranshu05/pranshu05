@@ -37,6 +37,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My 15 Days Blender Progression](https://www.youtube.com/watch?v=N3KLYw2gjNs)
+- [Pendulum Waves | Blender](https://www.youtube.com/watch?v=Z7iNiIMFzkM)
+- [First 3D Animation - Update | Blender | Learning Blender](https://www.youtube.com/watch?v=JnQH41gab1U)
+- [First 3D Animation | Blender | Learning Blender](https://www.youtube.com/watch?v=5clT9DouI-4)
+- [First game | Devlog #1 |  Made at age of 14](https://www.youtube.com/watch?v=U8Iv8Pjg8Mo)
 <!-- YOUTUBE:END -->
 
 
