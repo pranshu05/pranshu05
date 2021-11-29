@@ -3,14 +3,14 @@
 </p>
 <h1 align="center">Hi 👋, I'm Pranshu Patel</h1>
 <h3 align="center">A passionate Programmer,GameDeveloper and Animator(Part Time) from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pranshu05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6" alt="pranshu05" /> </p>
 <p><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p>
 
 [![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/754381104034742415?simple=true&style=for-the-badge)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/754381104034742415&style=for-the-badge)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415&style=for-the-badge)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/754381104034742415&style=for-the-badge)](https://dev.discordprofiles.me/openspotify/754381104034742415)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/754381104034742415?simple=true?style=for-the-badge)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/754381104034742415?style=for-the-badge)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415?style=for-the-badge)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/754381104034742415?style=for-the-badge)](https://dev.discordprofiles.me/openspotify/754381104034742415)
 
 <img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
 
