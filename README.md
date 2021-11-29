@@ -44,7 +44,7 @@
 - [First game | Devlog #1 |  Made at age of 14](https://www.youtube.com/watch?v=U8Iv8Pjg8Mo)
 <!-- YOUTUBE:END -->
 
-## Last week so far
+## 📊 Last week so far
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
