@@ -14,6 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          uses: pranshu05/waka-readme-stats@master
+          uses: pranshu05/pranshu05@master
           SHOW_OS: "False"
           SHOW_LANGUAGE: "False"
