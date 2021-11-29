@@ -51,6 +51,10 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+## 📊 Last year so far
+
+[<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">](https://github.com/lowlighter/metrics)
+
 # Stats
 
 | ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05) |
