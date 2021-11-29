@@ -53,7 +53,7 @@ No Activity tracked this Week
 
 ## 📊 Last year so far
 
-[<img align="left" width="390" alt="🦑" src="https://github.com/pranshu05/pranshu05/blob/master/metrics.svg">](https://github.com/pranshu05/metrics)
+![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
 # Stats
 
