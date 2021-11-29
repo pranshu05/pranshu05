@@ -53,7 +53,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-| <p> <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&theme=radical&no-bg=true" /></p> |
+| <p> <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&no-bg=true" /></p> |
 | ------ |
-| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?) |
 
