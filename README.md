@@ -50,8 +50,8 @@
 | ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
- <!-- waka-box start -->
- <!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 | <p> <img src="https://github-profile-trophy.vercel.app/?username=pranshu05" /></p> |
 | ------ |
