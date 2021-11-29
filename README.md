@@ -7,7 +7,7 @@
 <p><a href="https://pranshu05.github.io"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p></a>
 
 [![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
-![My Discord](https://discord-readme-badge.vercel.app/api?id=804970459561066537)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<804970459561066537>)
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/754381104034742415?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/754381104034742415)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415)
