@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6" alt="pranshu05" /> </p>
 <p><a href="https://pranshu05.github.io"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p></a>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=[754381521854398595])
-![Discord Banner 2](https://discordapp.com/api/guilds/754381521854398595/widget.png?style=banner2)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=754381104034742415)
+![Discord Banner 2](https://discordapp.com/api/guilds/[754381521854398595]/widget.png?style=banner2)
 <br>
 [![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
 
