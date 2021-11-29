@@ -10,7 +10,7 @@
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/754381104034742415?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/754381104034742415)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/754381104034742415)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/754381104034742415](https://dev.discordprofiles.me/openspotify/754381104034742415)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/754381104034742415)](https://dev.discordprofiles.me/openspotify/754381104034742415)
 
 <img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
 
