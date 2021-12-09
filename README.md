@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I am Chess Enthusiast**
 
 # Server
-[![widget](https://invidget.switchblade.xyz/854739172580655134)](https://discord.gg/CVyx9qyYPF)
+[![widget](https://invidget.switchblade.xyz/754381521854398595)](https://discord.gg/CVyx9qyYPF)
 
 # Connect with me:
 
