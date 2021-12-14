@@ -1,6 +1,3 @@
-<p align="center">
-<img align="center" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/download.gif" width="200" height="200"/>
-</p>
 <h1 align="center">Hi 👋, I'm Pranshu Patel</h1>
 <h3 align="center">A passionate Programmer,GameDeveloper and Animator(Part Time) from India</h3>
 <img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
@@ -55,7 +52,7 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 📊 Last year so far
 
-![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.community=0&base.repositories=0&isocalendar=1&projects=1&achievements=1&isocalendar.duration=full-year&projects.limit=4&projects.descriptions=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
 # Stats
 
