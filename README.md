@@ -50,9 +50,7 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-## 📊 Last year so far
 
-![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.community=0&base.repositories=0&isocalendar=1&projects=1&achievements=1&isocalendar.duration=full-year&projects.limit=4&projects.descriptions=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
 
 # Stats
 
