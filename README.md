@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I am Chess Enthusiast**
 
+- 🌱 I’m currently **learning TypeScript**
+
 # Server
 [![widget](https://invidget.switchblade.xyz/CVyx9qyYPF)](https://discord.gg/CVyx9qyYPF)
 
