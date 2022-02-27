@@ -44,10 +44,12 @@
 
 ## 📊 Last week so far
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   46 mins         ████████████████████████░   95.87 % 
-Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JavaScript   46 mins         ████████████████████████░   95.87 %
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)
