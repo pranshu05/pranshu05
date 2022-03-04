@@ -8,6 +8,11 @@
 [![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
 [![wakatime](https://wakatime.com/badge/user/14b6ad0f-2425-4d08-bfba-1dab751e4e00.svg?style=for-the-badge)](https://wakatime.com/@14b6ad0f-2425-4d08-bfba-1dab751e4e00)
 
+![status](https://dev.discordprofiles.me/badge/status/754381104034742415)
+![playing](https://dev.discordprofiles.me/badge/playing/754381104034742415)
+![vscode](https://dev.discordprofiles.me/badge/vscode/754381104034742415)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/754381104034742415)](https://dev.discordprofiles.me/openspotify/754381104034742415)
+
 # What I'm doing
 
 
