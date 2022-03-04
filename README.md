@@ -3,6 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pranshu05" /> </p>
 <p><a href="https://pranshu05.github.io"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p></a>
+<p align="left"> <a href="https://twitter.com/pranshu_05" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_05?logo=twitter&style=for-the-badge" alt="pranshu_05" /></a> </p>
 
 [![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
 [![wakatime](https://wakatime.com/badge/user/14b6ad0f-2425-4d08-bfba-1dab751e4e00.svg?style=for-the-badge)](https://wakatime.com/@14b6ad0f-2425-4d08-bfba-1dab751e4e00)
@@ -73,6 +74,6 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
 
 
-| <p> <img src="https://github-profile-trophy.vercel.app/?username=pranshu05" /></p> |
+| <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=pranshu05" alt="pranshu05" /></a> </p> |
 | ------ |
 
