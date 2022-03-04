@@ -15,7 +15,7 @@
 
 # Spotify Status
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=pranshu05)](https://open.spotify.com/user/pranshu05)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=awgtjjqdxae0pw5as3bcadxcd&unique=true)](https://open.spotify.com/user/awgtjjqdxae0pw5as3bcadxcd)
 
 # What I'm doing
 
