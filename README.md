@@ -13,10 +13,6 @@
 ![vscode](https://dev.discordprofiles.me/badge/vscode/754381104034742415)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/754381104034742415)](https://dev.discordprofiles.me/openspotify/754381104034742415)
 
-# Spotify Status
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=awgtjjqdxae0pw5as3bcadxcd&unique=true)](https://open.spotify.com/user/awgtjjqdxae0pw5as3bcadxcd)
-
 # What I'm doing
 
 
