@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranshu Patel</h1>
 <h3 align="center">A passionate Programmer,GameDeveloper and Animator(Part Time) from India</h3>
 <img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pranshu05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&color=brightgreen&style=for-the-badge" alt="pranshu05" /> </p>
 <p><a href="https://pranshu05.github.io"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p></a>
 <p align="left"> <a href="https://twitter.com/pranshu_05" target="blank"><img src="https://img.shields.io/twitter/follow/pranshu_05?logo=twitter&style=for-the-badge" alt="pranshu_05" /></a> </p>
 
