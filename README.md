@@ -78,6 +78,6 @@ No activity tracked
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
 
 
-| <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pranshu05&no-frame=true"></a> </p> |
+| <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pranshu05"></a> </p> |
 | ------ |
 
