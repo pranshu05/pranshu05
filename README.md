@@ -1,8 +1,5 @@
-![Header](./github-header-image.png)
+![image](https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png)
 
-
-[![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
-[![wakatime](https://wakatime.com/badge/user/14b6ad0f-2425-4d08-bfba-1dab751e4e00.svg?style=for-the-badge)](https://wakatime.com/@14b6ad0f-2425-4d08-bfba-1dab751e4e00)
 
 
 # What I'm doing
