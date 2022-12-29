@@ -28,7 +28,13 @@
 - ⚡ Fun fact **I am chess enthusiast**
 
 # Server
+
+<div align="center">
+
 [![widget](https://invidget.switchblade.xyz/CVyx9qyYPF)](https://discord.gg/CVyx9qyYPF)
+   
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CVyx9qyYPF) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pranshu.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu05) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/pranshu05patel) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Pranshu-Patel-83) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/pranshu2005) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pranshu_05) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@pranshu05) 
