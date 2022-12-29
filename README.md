@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranshu Patel</h1>
-<h3 align="center">A passionate Programmer,GameDeveloper and Animator(Part Time) from India</h3>
-<div align="center">
-<h3>Currently listening to:</h3>
-<img src="https://natemoo-e8r1hwn5n-pranshu05.vercel.app/now-playing">
-<h3>Recently listened: </h3>
-<img src="https://novatorem-fzrzce3al-pranshu05.vercel.app/api/spotify">
-</div>
+![Header](./github-header-image.png)
 
 
 [![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://pranshu05.github.io)
