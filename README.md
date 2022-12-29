@@ -1,11 +1,11 @@
-<img align="right" src"https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
+![img](https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png){: style="float: right"}
 
 ## Hi I'm Pranshu
 
 
 # What I'm doing
 
-<img align="right" src"https://user-images.githubusercontent.com/70943732/209951414-a2e5a1bb-73e6-473d-895d-9baa0f0a5117.png">
+![img](https://user-images.githubusercontent.com/70943732/209951414-a2e5a1bb-73e6-473d-895d-9baa0f0a5117.png){: style="float: right"}
 
 - 🔭 I’m currently working on [Elpha](https://github.com/pranshu05/elpha)
 
@@ -63,7 +63,7 @@ No activity tracked
 
 ---
 
-<img align="right" src"https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
+![img](https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png){: style="float: right"}
 
 <div align="center">
    <img src="https://visitcount.itsvg.in/api?id=pranshu05&icon=0&color=0">
