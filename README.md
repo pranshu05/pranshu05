@@ -71,5 +71,5 @@ No activity tracked
 
 ---
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=pranshu05&icon=0&color=0)](https://visitcount.itsvg.in)
+   <img src="https://visitcount.itsvg.in/api?id=pranshu05&icon=0&color=0">
 </div>
