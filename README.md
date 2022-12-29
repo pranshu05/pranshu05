@@ -55,7 +55,14 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209953989-93d355f4-7913-4c81-8aa0-b6d4eca237b0.png">
+
+<div align="right">
+
 ![Metrics](https://metrics.lecoq.io/pranshu05?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.from=organization&notable.repositories=true&config.timezone=Asia%2FCalcutta)
+   
+</div>
+
 
 # Stats
 
@@ -63,9 +70,7 @@ No activity tracked
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
 
-
-| <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pranshu05"></a> </p> |
-| ------ |
+<p align="center"> <img alig src="https://github-profile-trophy.vercel.app/?username=pranshu05&column=6&rank=SSS,SS,S,AAA,AA,A,B" /> </p>
 
 ---
 
