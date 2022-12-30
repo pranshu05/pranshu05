@@ -1,8 +1,8 @@
-<img align="center" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
+<img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
 
 <div align="right" >
    
-# Hi I'm Pranshu!
+# Hi, I'm Pranshu!
 
 </div>
 
@@ -76,7 +76,11 @@ No activity tracked
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=pranshu05&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
 
-<p align="center"> <img alig src="https://github-profile-trophy.vercel.app/?username=pranshu05&column=6&rank=SSS,SS,S,AAA,AA,A,B" /> </p>
+<div align="center"> 
+   
+   <img alig src="https://github-profile-trophy.vercel.app/?username=pranshu05&column=6&rank=SSS,SS,S,AAA,AA,A,B" />
+
+</div>
 
 ---
 
