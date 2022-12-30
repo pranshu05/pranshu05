@@ -1,5 +1,7 @@
 <img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
 
+<br clear="left"/>
+
 <div align="right" >
    
 # Hi, I'm Pranshu!
