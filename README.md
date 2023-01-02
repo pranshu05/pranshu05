@@ -76,7 +76,7 @@ No activity tracked
 
 | ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Stars](https://github-profile-trophy.vercel.app/?username=pranshu05&column=6&rank=SSS,SS,S,AAA,AA,A,B) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshu05&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pranshu05&include_all_commits=true&count_private=true) |
 
 ---
 
