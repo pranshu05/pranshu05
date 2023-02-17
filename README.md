@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![widget](https://invidget.switchblade.xyz/CVyx9qyYPF)](https://discord.gg/CVyx9qyYPF)
+<a href="https://discord.gg/CVyx9qyYPF"><img src="https://invidget.switchblade.xyz/CVyx9qyYPF"></a>
    
 </div>
 
