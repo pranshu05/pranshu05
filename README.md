@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Discord bot**
 
-- 👨‍💻 All of my projects are available at [https://pranshu05.github.io](https://pranshu05.github.io)
+- 👨‍💻 All of my projects are available at [https://pranshu05.vercel.app](https://pranshu05.vercel.app)
 
 - 💬 Ask me about **discord.js**
 
