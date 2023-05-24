@@ -85,6 +85,11 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
+<p>
+<img src="https://api.vaunt.dev/v1/github/entities/pranshu05/achievements?format=svg&limit=3" width="350" />
+</p>
+
+
 <img align="right" width="150" src="https://user-images.githubusercontent.com/70943732/209951571-93b7afe5-f523-4683-b725-5d94b287e94e.png">
 
 <div align="center">
