@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 min           █████████████████▒░░░░░░░   69.50 %
-C++          0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
