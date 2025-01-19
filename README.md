@@ -8,8 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    18 mins         ██████████████▒░░░░░░░░░░   56.83 %
-Image (svg)   13 mins         ██████████▓░░░░░░░░░░░░░░   43.17 %
+TypeScript   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
