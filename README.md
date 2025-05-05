@@ -8,9 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       5 mins          █████████████████████▒░░░   85.64 %
-TypeScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
