@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                       44 mins               ███████████░░░░░░░░░░░░░░   44.56 %
-TypeScript                 19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-JavaScript                 12 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Markdown                   9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-Other                      7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
